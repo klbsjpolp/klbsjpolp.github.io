@@ -20,6 +20,10 @@
 
 [![Jaipur Console](https://klbsjpolp.github.io/jaipur/console/game-image.svg)](https://klbsjpolp.github.io/jaipur/console)
 
+## Skip-bo
+
+[![Skip-bo](https://klbsjpolp.github.io/skip-bo/game-image.svg)](https://klbsjpolp.github.io/skip-bo)
+
 ## Encore (en construction)
 
 [![Encore](https://klbsjpolp.github.io/encore2/game-image.svg)](https://klbsjpolp.github.io/encore2) (en construction)
