@@ -26,7 +26,7 @@
 
 ## Jeu des familles
 
-[![Jeu des familles](https://klbsjpolp.github.io/skip-bo/game-image.svg)](https://klbsjpolp.github.io/happy-family-game)
+[![Jeu des familles](https://klbsjpolp.github.io/happy-family-game/game-image.svg)](https://klbsjpolp.github.io/happy-family-game)
 
 ## Encore (en construction)
 
