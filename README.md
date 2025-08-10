@@ -24,6 +24,10 @@
 
 [![Skip-bo](https://klbsjpolp.github.io/skip-bo/game-image.svg)](https://klbsjpolp.github.io/skip-bo)
 
+## Jeu des familles
+
+[![Jeu des familles](https://klbsjpolp.github.io/skip-bo/game-image.svg)](https://klbsjpolp.github.io/happy-family-game)
+
 ## Encore (en construction)
 
 [![Encore](https://klbsjpolp.github.io/encore2/game-image.svg)](https://klbsjpolp.github.io/encore2) (en construction)
