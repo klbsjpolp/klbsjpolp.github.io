@@ -30,4 +30,4 @@
 
 ## Encore
 
-[![Encore](https://klbsjpolp.github.io/encore3/game-image.svg)](https://klbsjpolp.github.io/encore3) (en construction)
+[![Encore](https://klbsjpolp.github.io/encore3/game-image.svg)](https://klbsjpolp.github.io/encore3)
