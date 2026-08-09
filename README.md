@@ -31,3 +31,7 @@
 ## Encore
 
 [![Encore](https://klbsjpolp.github.io/encore3/game-image.svg)](https://klbsjpolp.github.io/encore3)
+
+## Backgammon
+
+[![Backgammon](https://klbsjpolp.github.io/backgammon/game-image.svg)](https://klbsjpolp.github.io/backgammon)
